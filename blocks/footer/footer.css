@@ -4,7 +4,7 @@
     min-width: 186px;
     min-height: 310px;
     color: #FFFFFF;
-    padding-top: 64px;
+    margin-top: 64px;
     display: flex;
     flex-direction: column;
     align-items: flex-start;
