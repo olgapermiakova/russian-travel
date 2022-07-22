@@ -1,0 +1,46 @@
+.header__lang-link {
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 20px;
+text-align: right;
+text-decoration: none;
+align-self: flex-end;
+margin: 14px 0 8px;
+color: #FFFFFF; 
+min-width: 22px;
+}
+
+.header__lang-link:first-of-type {
+margin-left: 0;
+text-decoration-line: underline;
+}
+
+@media screen and (min-width: 768px) {
+    .header__lang-link {
+        min-width: 30px;
+        line-height: 28px;
+        font-size: 24px;
+        margin: 18px 0 6px;
+    }
+
+}
+
+@media screen and (min-width: 1024px) {
+    .header__lang-link {
+        min-width: 30px;
+        line-height: 28px;
+        font-size: 24px;
+    }
+
+}
+
+@media screen and (min-width: 1280px) {
+    .header__lang-link {
+        min-width: 30px;
+        line-height: 28px;
+        font-size: 24px;
+    }
+
+}

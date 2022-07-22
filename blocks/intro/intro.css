@@ -1,0 +1,41 @@
+.intro {
+margin: 0 auto;
+min-width: 288px;
+height: 754px;
+margin-left: 16px;
+margin-right: 16px;
+padding-bottom: 0;
+margin-top: 64px;
+}
+
+@media screen and (min-width: 768px) {
+    .intro {
+    max-width: 720px;
+    height: 429px;
+    margin-left: 24px;
+    margin-right: 24px;
+    margin-bottom: -371px;
+    }
+}
+
+@media screen and (min-width: 1024px) {
+    .intro {
+    max-width: 690px;
+    height: 429px;
+    margin-left: 48px;
+    margin-right: 286px;
+    margin-bottom: 92px;
+    margin-top: 92px;
+    }
+}
+
+@media screen and (min-width: 1280px) {
+    .intro {
+        max-width: 690px;
+        max-height: 429px;
+        margin-left: 148px;
+        margin-right: 442px;
+        margin-bottom: 92px;
+        margin-top: 92px;
+    }
+}
