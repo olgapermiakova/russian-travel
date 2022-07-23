@@ -8,27 +8,27 @@
 
 @media screen and (min-width: 768px) {
     .place__image {
-    max-width: 340px;
-    max-height: 340px;
-    margin-top: 0;
+        max-width: 340px;
+        max-height: 340px;
+        margin-top: 0;
     
     }
 }
 
 @media screen and (min-width: 1024px) {
     .place__image {
-    max-width: 928px;
-    max-height: 640px;
-    margin-top: 0;
+        max-width: 928px;
+        max-height: 640px;
+        margin-top: 0;
 
     }
 }
 
 @media screen and (min-width: 1280px) {
     .place__image {
-    max-width: 460px;
-    max-height: 460px;
-    margin-top: 0;
+        max-width: 460px;
+        max-height: 460px;
+        margin-top: 0;
 
     }
 }

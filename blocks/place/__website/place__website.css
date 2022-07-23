@@ -11,21 +11,24 @@
 
 @media screen and (min-width: 768px) {
     .place__website {
-   max-width: 352px;
-   max-height: 46px;
+        max-width: 352px;
+        max-height: 46px;
+        align-items: center;
     }
 }
 
 @media screen and (min-width: 1024px) {
     .place__website {
-    max-width: 456px;
-    max-height: 46px;
+        max-width: 456px;
+        max-height: 46px;
+        align-items: center;
     }
 }
 
 @media screen and (min-width: 1280px) {
     .place__website {
-    max-width: 456px;
-    max-height: 46px;
+        max-width: 456px;
+        max-height: 46px;
+        align-items: center;
     }
 }

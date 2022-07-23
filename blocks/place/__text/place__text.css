@@ -1,11 +1,9 @@
 .place__text {
-margin: 0 auto;
-min-width: 288px;
-min-height: 312px;
-display: flex;
-flex-direction: column;
-justify-content: space-between;
-gap: 25px;
+    margin: 0 auto;
+    min-width: 288px;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 25px;
 }
 
 .place__text:last-child {
@@ -21,15 +19,11 @@ gap: 25px;
 @media screen and (min-width: 1024px) {
     .place__text {
         min-width: 456px;
-        gap: 27px;
-
     }
 }
 
 @media screen and (min-width: 1280px) {
     .place__text {
         min-width: 484px;
-        gap: 26px;
-    
     }
 }

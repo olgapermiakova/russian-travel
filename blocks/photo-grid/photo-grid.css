@@ -1,53 +1,53 @@
 .photo-grid {
-margin: 0 auto;
-display: grid;
-grid-template-columns: repeat(auto-fit, 288px);
-grid-template-rows: repeat(12, 1fr);
-min-width: 288px;
-padding-left: 16px;
-padding-right: 16px;
-gap: 12px;
-box-sizing: border-box;
-margin-bottom: 64px;
+    margin: 0 auto;
+    display: grid;
+    grid-template-columns: repeat(auto-fit, 288px);
+    grid-template-rows: repeat(12, 1fr);
+    min-width: 288px;
+    padding-left: 16px;
+    padding-right: 16px;
+    gap: 12px;
+    box-sizing: border-box;
+    margin-bottom: 64px;
 }
 
 @media screen and (min-width: 768px) {
     .photo-grid {
-    min-width: 720px;
-    max-height: 1664px;
-    padding-left: 24px;
-    padding-right: 24px;
-    margin-bottom: 547px;
-    gap: 16px;
-    grid-template-columns: repeat(auto-fit, 352px);
-    grid-template-rows: repeat(6, 2fr);
+        min-width: 720px;
+        max-height: 1664px;
+        padding-left: 24px;
+        padding-right: 24px;
+        margin-bottom: 547px;
+        gap: 16px;
+        grid-template-columns: repeat(auto-fit, 352px);
+        grid-template-rows: repeat(6, 2fr);
     }
 }
 
 @media screen and (min-width: 1024px) {
     .photo-grid {
-    grid-template-columns: repeat(auto-fit, 300px);
-    grid-template-rows: repeat(4, 3fr);
-    min-width: 928px;
-    max-height: 942px;
-    padding-left: 48px;
-    padding-right: 48px;
-    margin-bottom: 92px;
-    margin-top: 92px;
-    gap: 14px;
+        grid-template-columns: repeat(auto-fit, 300px);
+        grid-template-rows: repeat(4, 3fr);
+        min-width: 928px;
+        max-height: 942px;
+        padding-left: 48px;
+        padding-right: 48px;
+        margin-bottom: 92px;
+        margin-top: 92px;
+        gap: 14px;
     }
 }
 
 @media screen and (min-width: 1280px) {
     .photo-grid {
-    grid-template-columns: repeat(auto-fit, 284px);
-    grid-template-rows: repeat(3, 4fr);
-    min-width: 1184px;
-    max-height: 671px;
-    padding-left: 48px;
-    padding-right: 48px;
-    margin-bottom: 92px;
-    margin-top: 92px;
-    gap: 16px;
+        grid-template-columns: repeat(auto-fit, 284px);
+        grid-template-rows: repeat(3, 4fr);
+        min-width: 1184px;
+        max-height: 671px;
+        padding-left: 48px;
+        padding-right: 48px;
+        margin-bottom: 92px;
+        margin-top: 92px;
+        gap: 16px;
     }
 }

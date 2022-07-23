@@ -14,28 +14,28 @@
 
 @media screen and (min-width: 768px) {
     .footer {
-    min-width: 720px;
-    min-height: 18px;
-    margin-bottom: 24px;
-    float: none;
-    flex-direction: row;
+        min-width: 720px;
+        min-height: 18px;
+        margin-bottom: 24px;
+        float: none;
+        flex-direction: row;
     }
 }
 
 @media screen and (min-width: 1024px) {
     .footer {
-    min-width: 928px;
-    min-height: 18px;
-    float: none;
-    flex-direction: row;
+        min-width: 928px;
+        min-height: 18px;
+        float: none;
+        flex-direction: row;
     }
 }
 
 @media screen and (min-width: 1280px) {
     .footer {
-    min-width: 1184px;
-    min-height: 18px;
-    float: none;
-    flex-direction: row;
+        min-width: 1184px;
+        min-height: 18px;
+        float: none;
+        flex-direction: row;
     }
 }
