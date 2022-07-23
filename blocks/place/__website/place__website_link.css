@@ -1,4 +1,4 @@
-.place__website__link {
+.place__website_link {
 min-width: 288px;
 font-family: 'Inter';
 font-style: normal;
@@ -10,6 +10,6 @@ color: #FFFFFF;
 padding-bottom: 0px;
 }
 
-.place__website__link:hover {
+.place__website_link:hover {
     color: #AAAAAA;
   }

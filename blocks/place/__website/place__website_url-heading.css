@@ -1,4 +1,4 @@
-.place__website__url-heading {
+.place__website_url-heading {
     margin: 0 auto;
     min-width: 288px;
     min-height: 12px;
@@ -13,19 +13,19 @@
 }
 
 @media screen and (min-width: 768px) {
-    .place__website__url-heading {
+    .place__website_url-heading {
     margin-left: 0;
     }
 }
 
 @media screen and (min-width: 1024px) {
-    .place__website__url-heading {
+    .place__website_url-heading {
     margin-left: 0;
     }
 }
 
 @media screen and (min-width: 1280px) {
-    .place__website__url-heading {
+    .place__website_url-heading {
     margin-left: 0;
     }
 }
