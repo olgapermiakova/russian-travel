@@ -9,9 +9,9 @@
 
 @media screen and (min-width: 768px) {
    .lead {
-      max-width: 768px;
-      max-height: 862px; 
-      margin-top: 48px;
+   max-width: 768px;
+   max-height: 862px;
+   margin-top: 48px;
    }
 }
 
