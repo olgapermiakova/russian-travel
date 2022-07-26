@@ -1,36 +1,36 @@
 .intro__text {
-    min-width: 288px;
-    font-family: 'Inter', "Arial", serif;
-    font-style: normal;
-    font-weight: 400;
-    font-size: 16px;
-    line-height: 26px;
-    color: #FFFFFF;
-    margin-bottom: 34px;
+  min-width: 288px;
+  font-family: 'Inter', "Arial", serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 26px;
+  color: #FFFFFF;
+  margin-bottom: 34px;
 }
 
 @media screen and (min-width: 768px) {
-    .intro__text {
-        max-width: 720px;
-        font-size: 16px;
-        margin-bottom: 33px;
-        position: relative;
-        z-index: 1;
-    }
+  .intro__text {
+    max-width: 720px;
+    font-size: 16px;
+    margin-bottom: 33px;
+    position: relative;
+    z-index: 1;
+  }
 }
 
 @media screen and (min-width: 1024px) {
-    .intro__text {
-        max-width: 690px;
-        font-size: 16px;
-        margin-bottom: 33px;
-    }
+  .intro__text {
+    max-width: 690px;
+    font-size: 16px;
+    margin-bottom: 33px;
+  }
 }
 
 @media screen and (min-width: 1280px) {
-    .intro__text {
-        max-width: 690px;
-        font-size: 16px;
-        margin-bottom: 33px;
-    }
+  .intro__text {
+    max-width: 690px;
+    font-size: 16px;
+    margin-bottom: 33px;
+  }
 }

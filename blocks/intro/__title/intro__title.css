@@ -1,35 +1,35 @@
 .intro__title {
-    margin: 0 auto;
-    min-width: 288px;
-    font-family: 'Inter', "Arial", serif;
-    font-style: normal;
-    font-weight: 900;
-    font-size: 32px;
-    line-height: 35px;
-    color: #FFFFFF;
-    margin-bottom: 40px;
+  margin: 0 auto;
+  min-width: 288px;
+  font-family: 'Inter', "Arial", serif;
+  font-style: normal;
+  font-weight: 900;
+  font-size: 32px;
+  line-height: 35px;
+  color: #FFFFFF;
+  margin-bottom: 40px;
 }
 
 @media screen and (min-width: 768px) {
-    .intro__title {
-        max-width: 720px;
-        line-height: 58px;
-        font-size: 54px;
-    }
+  .intro__title {
+    max-width: 720px;
+    line-height: 58px;
+    font-size: 54px;
+  }
 }
 
 @media screen and (min-width: 1024px) {
-    .intro__title {
-        max-width: 690px;
-        line-height: 58px;
-        font-size: 54px;
-    }
+  .intro__title {
+    max-width: 690px;
+    line-height: 58px;
+    font-size: 54px;
+  }
 }
 
 @media screen and (min-width: 1280px) {
-    .intro__title {
-        max-width: 690px;
-        line-height: 58px;
-        font-size: 54px;
-    }
+  .intro__title {
+    max-width: 690px;
+    line-height: 58px;
+    font-size: 54px;
+  }
 }

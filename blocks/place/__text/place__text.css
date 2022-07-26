@@ -1,26 +1,26 @@
 .place__text {
-    margin: 0 auto;
-    min-width: 288px;
-    display: flex;
-    flex-wrap: wrap;
-    position: relative;
-    gap: 25px;
+  margin: 0 auto;
+  min-width: 288px;
+  display: flex;
+  flex-wrap: wrap;
+  position: relative;
+  gap: 25px;
 }
 
 @media screen and (min-width: 768px) {
-    .place__text {
-        min-width: 352px;
-    }
+  .place__text {
+    min-width: 352px;
+  }
 }
 
 @media screen and (min-width: 1024px) {
-    .place__text {
-        min-width: 456px;
-    }
+  .place__text {
+    min-width: 456px;
+  }
 }
 
 @media screen and (min-width: 1280px) {
-    .place__text {
-        min-width: 484px;
-    }
+  .place__text {
+    min-width: 484px;
+  }
 }
