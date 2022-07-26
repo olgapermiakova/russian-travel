@@ -12,7 +12,7 @@
     min-width: 22px;
 }
 
-.header__lang-link:first-of-type {
+.header__lang-link:hover {
     margin-left: 0;
     text-decoration-line: underline;
 }
