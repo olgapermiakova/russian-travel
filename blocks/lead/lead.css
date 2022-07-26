@@ -2,8 +2,7 @@
    margin: 0 auto;
    min-width: 320px;
    min-height: 406px;
-   padding-left: -2px;
-   padding-right: -2px;
+   display: flex;
    margin-top: 48px;
 }
 
@@ -32,6 +31,6 @@
       padding-left: 148px;
       padding-right: 148px;
       margin-top: 56px;
-       
+
    }
 }

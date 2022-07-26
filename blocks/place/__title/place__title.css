@@ -1,9 +1,9 @@
 .place__title {
     margin: 0 auto;
     min-width: 288px;
+    margin-left: 0;
     padding-left: 16px;
-    padding-right: 16px;
-    font-family: 'Inter';
+    font-family: 'Inter', "Arial", serif;
     font-style: normal;
     font-weight: 900;
     font-size: 32px;
@@ -24,7 +24,7 @@
         min-width: 440px;
         line-height: 76px;
         font-size: 72px;
-    
+
     }
 }
 

@@ -1,39 +1,35 @@
 .cover {
-    position: relative;
-    margin: 0 auto;
-    min-width: 320px;
-    min-height: 200px;
-    color: #FFFFFF;
-    margin-top: 66px;
-    max-width: 100%;
+  position: relative;
+  margin: 0 auto;
+  min-width: 320px;
+  min-height: 200px;
+  color: #FFFFFF;
+  max-width: 100%;
 }
 
 @media screen and (min-width: 768px) {
-    .cover {
+  .cover {
     min-width: 768px;
     min-height: 480px;
-    margin-top: 90px;
     left: 0;
     right: 0;
-    }
+  }
 }
 
 @media screen and (min-width: 1024px) {
-    .cover {
+  .cover {
     min-width: 1024px;
     min-height: 640px;
-    margin-top: 92px;
     left: 0;
     right: 0;
-    }
+  }
 }
 
 @media screen and (min-width: 1280px) {
-    .cover {
+  .cover {
     min-width: 1184px;
     min-height: 740px;
     padding-left: 48px;
     padding-right: 48px;
-    margin-bottom: 92px;
-    }
+  }
 }

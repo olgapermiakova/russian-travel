@@ -1,5 +1,5 @@
 .page {
-    font-family: 'Inter', Arial, sans-serif;
+    font-family: 'Inter', "Arial", serif;
     background-color: #2a2c2f;
-    overflow-x: hidden;
+    display: flex;
 }

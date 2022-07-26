@@ -4,7 +4,7 @@
    min-height: 70px;
    left: 16px;
    margin-bottom: 16px;
-   font-family: 'Inter';
+   font-family: 'Inter', "Arial", serif;
    font-style: normal;
    font-weight: 900;
    font-size: 32px;
@@ -17,7 +17,6 @@
 @media screen and (min-width: 768px) {
     .cover__title {
         min-width: 560px;
-        min-height: 152px;
         font-size: 72px;
         line-height: 76px;
         margin-bottom: 32px;
@@ -27,7 +26,6 @@
 @media screen and (min-width: 1024px) {
     .cover__title {
        min-width: 560px;
-       min-height: 152px;
        font-size: 72px;
        line-height: 76px;
        margin-bottom: 32px;
@@ -37,7 +35,6 @@
 @media screen and (min-width: 1280px) {
     .cover__title {
         min-width: 560px;
-        min-height: 152px;
         font-size: 72px;
         line-height: 76px;
         margin-bottom: 32px;

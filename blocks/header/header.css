@@ -1,8 +1,5 @@
 .header {
     margin: 0 auto;
-    padding-top: 16px;
-    padding-left: 16px;
-    padding-right: 16px;
     display: flex;
     min-width: 288px;
     min-height: 42px;
