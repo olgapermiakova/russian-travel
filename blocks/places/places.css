@@ -1,7 +1,6 @@
 .places {
   margin: 0 auto;
   margin-top: 64px;
-  left: 0px;
   padding-bottom: 0px;
   min-width: 320px;
 }
@@ -9,7 +8,6 @@
 
 @media screen and (min-width: 768px) {
   .places {
-    min-height: 2808px;
     padding-left: 24px;
     padding-right: 24px;
   }

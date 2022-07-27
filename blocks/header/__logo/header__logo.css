@@ -4,7 +4,6 @@
   padding-bottom: 0;
   min-width: 142px;
   min-height: 42px;
-  float: left;
   margin-left: 0;
 }
 
@@ -18,16 +17,6 @@
 
 @media screen and (min-width: 1024px) {
   .header__logo {
-    max-width: 176px;
-    max-height: 52px;
     padding-left: 48px;
-  }
-}
-
-@media screen and (min-width: 1280px) {
-  .header__logo {
-    max-width: 176px;
-    max-height: 52px;
-    margin-left: 48px;
   }
 }

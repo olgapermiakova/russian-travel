@@ -9,7 +9,6 @@
     "paragraph";
   grid-template-rows: auto;
   min-width: 320px;
-  min-height: 1042px;
   padding-left: 0px;
   padding-bottom: 0px;
   margin-bottom: 50px;
@@ -19,7 +18,6 @@
 @media screen and (min-width: 768px) {
   .place {
     min-width: 720px;
-    min-height: 581px;
     grid-template-columns: 340px 1fr;
     column-gap: 28px;
     row-gap: 48px;
@@ -30,7 +28,6 @@
 @media screen and (min-width: 1024px) {
   .place {
     min-width: 928px;
-    min-height: 640px;
     grid-template-columns: 440px 1fr;
     column-gap: 32px;
     row-gap: 48px;
@@ -40,7 +37,6 @@
 @media screen and (min-width: 1280px) {
   .place {
     min-width: 984px;
-    min-height: 660px;
     grid-template-columns: 460px 1fr;
     column-gap: 40px;
     row-gap: 48px;

@@ -24,15 +24,11 @@
     min-width: 440px;
     line-height: 76px;
     font-size: 72px;
-
   }
 }
 
 @media screen and (min-width: 1280px) {
   .place__title {
     min-width: 460px;
-    line-height: 76px;
-    font-size: 72px;
-    padding-left: 0;
   }
 }

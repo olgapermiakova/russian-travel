@@ -11,8 +11,6 @@
   .cover {
     min-width: 768px;
     min-height: 480px;
-    left: 0;
-    right: 0;
   }
 }
 
@@ -20,8 +18,6 @@
   .cover {
     min-width: 1024px;
     min-height: 640px;
-    left: 0;
-    right: 0;
   }
 }
 

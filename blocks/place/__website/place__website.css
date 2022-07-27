@@ -1,7 +1,6 @@
 .place__website {
   margin: 0 auto;
   min-width: 288px;
-  min-height: 46px;
   padding-left: 16px;
   padding-right: 16px;
   display: flex;
@@ -11,7 +10,6 @@
 
 @media screen and (min-width: 768px) {
   .place__website {
-    min-height: 46px;
     align-items: center;
     padding-left: 0;
   }
@@ -19,18 +17,7 @@
 
 @media screen and (min-width: 1024px) {
   .place__website {
-    min-height: 46px;
     align-content: flex-end;
-    padding-left: 0;
     align-items: flex-end;
-  }
-}
-
-@media screen and (min-width: 1280px) {
-  .place__website {
-    min-height: 46px;
-    align-items: flex-end;
-    align-content: flex-end;
-    padding-left: 0;
   }
 }
