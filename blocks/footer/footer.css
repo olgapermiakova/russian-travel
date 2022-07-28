@@ -1,13 +1,13 @@
 .footer {
   margin: 0 auto;
   min-width: 186px;
-  color: #FFFFFF;
   margin-top: 64px;
+  color: #FFFFFF;
   display: flex;
   flex-direction: column;
   align-items: flex-start;
   padding-left: 16px;
-  padding-bottom: 24px;
+  margin-bottom: 24px;
 }
 
 @media screen and (min-width: 768px) {
@@ -15,7 +15,10 @@
     min-width: 720px;
     margin-bottom: 24px;
     flex-direction: row;
-    margin-top: 0px;
+    margin-top: 88px;
+    padding-left: 24px;
+    padding-bottom: 0px;
+    padding-right: 24px;
   }
 }
 

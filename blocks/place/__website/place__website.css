@@ -15,12 +15,14 @@
     align-content: flex-start;
     padding-bottom: 0;
     padding-top: 0;
+    align-self: end;
   }
 }
 
 @media screen and (min-width: 1024px) {
   .place__website {
     align-content: center;
+    align-self: end;
   }
 }
 

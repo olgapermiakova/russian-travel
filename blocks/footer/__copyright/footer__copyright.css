@@ -1,7 +1,5 @@
 .footer__copyright {
-  margin: 0 auto;
-  margin-top: 48px;
-  margin-bottom: 24px;
+  padding-bottom: 0px;
   min-width: 186px;
   font-size: 14px;
   line-height: 14px;
@@ -10,18 +8,28 @@
   font-weight: 400;
   color: #FFFFFF;
   margin-left: 0px;
+  line-height: 14px;
+  text-align: left;
+  margin-top: 48px;
+  margin-bottom: 0px;
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (min-width: 768px) {
   .footer__copyright {
-    margin-top: 0px;
+    margin-right: 0;
+    line-height: 16px;
+    margin-top: 0;
   }
 }
 
 @media screen and (min-width: 1024px) {
   .footer__copyright {
     margin-right: 48px;
-    margin-top: 0px;
-    margin-bottom: 0px;
+  }
+}
+
+@media screen and (min-width: 1280px) {
+  .footer__copyright {
+    margin: 48px 0 0;
   }
 }
