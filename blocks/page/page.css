@@ -2,4 +2,5 @@
   font-family: 'Inter', "Arial", serif;
   background-color: #2a2c2f;
   display: flex;
+  overflow: overlay;
 }
