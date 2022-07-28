@@ -13,12 +13,16 @@
   color: #FFFFFF;
 }
 
+.place__paragraph:last-of-type {
+  margin-bottom: 0;
+}
+
 @media screen and (min-width: 768px) {
   .place__paragraph {
     min-width: 352px;
     padding-left: 0px;
     padding-right: 0px;
-    line-height: 29px;
+    line-height: 26px;
   }
 }
 
