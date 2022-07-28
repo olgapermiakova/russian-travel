@@ -17,19 +17,3 @@
     line-height: 22px;
   }
 }
-
-@media screen and (min-width: 1024px) {
-  .cover__subtitle {
-    min-width: 360px;
-    font-size: 18px;
-    line-height: 22px;
-  }
-}
-
-@media screen and (min-width: 1280px) {
-  .cover__subtitle {
-    min-width: 360px;
-    font-size: 18px;
-    line-height: 22px;
-  }
-}

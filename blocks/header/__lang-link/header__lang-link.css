@@ -12,8 +12,8 @@
   min-width: 22px;
 }
 
-.header__lang-link_active {
-  text-decoration-line: underline;
+.header__lang-link:hover {
+  text-decoration: underline;
 }
 
 @media screen and (min-width: 768px) {

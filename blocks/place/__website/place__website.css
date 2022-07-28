@@ -22,7 +22,6 @@
 @media screen and (min-width: 1024px) {
   .place__website {
     align-content: center;
-    align-self: end;
   }
 }
 

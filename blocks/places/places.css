@@ -5,7 +5,6 @@
   min-width: 320px;
 }
 
-
 @media screen and (min-width: 768px) {
   .places {
     padding-left: 24px;
