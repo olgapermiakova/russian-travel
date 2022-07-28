@@ -13,25 +13,7 @@
 
 @media screen and (min-width: 768px) {
   .cover__title {
-    min-width: 560px;
-    font-size: 72px;
-    line-height: 76px;
-    margin-bottom: 32px;
-  }
-}
-
-@media screen and (min-width: 1024px) {
-  .cover__title {
-    min-width: 560px;
-    font-size: 72px;
-    line-height: 76px;
-    margin-bottom: 32px;
-  }
-}
-
-@media screen and (min-width: 1280px) {
-  .cover__title {
-    min-width: 560px;
+    max-width: 560px;
     font-size: 72px;
     line-height: 76px;
     margin-bottom: 32px;

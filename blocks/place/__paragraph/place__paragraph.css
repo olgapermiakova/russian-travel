@@ -25,6 +25,7 @@
   .place__paragraph {
     min-width: 456px;
     font-size: 18px;
+    line-height: 29px;
   }
 }
 

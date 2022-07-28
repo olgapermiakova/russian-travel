@@ -10,14 +10,22 @@
 
 @media screen and (min-width: 768px) {
   .place__website {
-    align-items: center;
-    padding-left: 0;
+    padding-left: 0px;
+    padding-right: 0px;
+    align-content: flex-start;
+    padding-bottom: 0;
+    padding-top: 0;
   }
 }
 
 @media screen and (min-width: 1024px) {
   .place__website {
+    align-content: center;
+  }
+}
+
+@media screen and (min-width: 1280px) {
+  .place__website {
     align-content: flex-end;
-    align-items: flex-end;
   }
 }

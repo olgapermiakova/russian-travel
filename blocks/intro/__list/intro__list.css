@@ -16,11 +16,13 @@
   .intro__list {
     max-width: 720px;
     z-index: 1;
+    margin-bottom: 85px;
   }
 }
 
 @media screen and (min-width: 1024px) {
   .intro__list {
     max-width: 690px;
+    margin-bottom: 85px;
   }
 }
